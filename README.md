@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Menuka Sankalpa</h1>
 <h3 align="center">"Learning Software Engineering from Sri Lanka"</h3><br>
 
