@@ -1,4 +1,4 @@
-
+<img align="center" src="logo.jpj" alt="menuka sankalpa deshapriya" height="30" width="40" />
 <h1 align="center">Hi 👋, I'm Menuka Sankalpa</h1>
 <h3 align="center">"Learning Software Engineering from Sri Lanka"</h3><br>
 
