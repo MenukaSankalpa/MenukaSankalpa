@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning **Python, Java, and Software Engineering principles.**
 
-- 🌱 I’m currently learning **Java/C++ & Python**
+- 🌱 I’m currently learning **Java, C++ & Python**
 
 - 👯 I’m looking to collaborate on **open-source projects and innovative app development.**
 
