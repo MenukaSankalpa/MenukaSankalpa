@@ -1,6 +1,6 @@
 
-\[**************\]
-![menuka sankalpa deshapriya](logo.jpg)
+
+<p align="center"><img src="file.png"/></p>
 
 <h1 align="center">Hi 👋, I'm Menuka Sankalpa</h1>
 <h3 align="center">"Learning Software Engineering from Sri Lanka"</h3><br>
