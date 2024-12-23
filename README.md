@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I love solving puzzles and can spend hours debugging for fun!**
 
-<h3 align="left">Connect with me......</h3><br><hr>
+<h3 align="left">📫 Connect with me......</h3><br><hr>
 <p align="left">
 <a href="https://fb.com/menuka sankalpa deshapriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="menuka sankalpa deshapriya" height="30" width="40" /></a>
 <a href="https://instagram.com/menu__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="menu__" height="30" width="40" /></a>
