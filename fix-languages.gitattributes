@@ -1,0 +1,25 @@
+# Ignore build and dependency folders
+node_modules/** linguist-vendored
+vendor/** linguist-vendored
+build/** linguist-generated
+dist/** linguist-generated
+
+# Ignore generated assets
+*.min.js linguist-generated
+*.min.css linguist-generated
+*.map linguist-generated
+*.json linguist-generated
+*.lock linguist-generated
+
+# Mark docs as documentation
+*.md linguist-documentation
+README.md linguist-documentation
+
+# Fix framework-specific file types
+*.blade.php linguist-language=PHP
+*.tpl linguist-language=PHP
+
+# Ignore configs
+*.env linguist-generated
+*.yml linguist-generated
+*.yaml linguist-generated
